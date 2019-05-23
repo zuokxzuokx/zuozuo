@@ -17,23 +17,22 @@ test
       <th>职业</th>
   </tr>
   <tr>
-      <td1001</td>
-      <td>1002</td>
-      <td>1003</td>
-      <td>1003</td>
-    
+      <td>1001</td>
+      <td>老大</td>
+      <td>女</td>
+      <td>教师</td>
   </tr>
   <tr>
-      <td>女</td>
+      <td>1002</td>
+      <td>老二</td>
       <td>男</td>
-      <td>男</td>
-      <td>男</td>
+      <td>警察</td>
   </tr>
     <tr>
-      <td>教师</td>
-      <td>警察</td>
-      <td>警察</td>
-      <td>教师</td>
+      <td>1003</td>
+      <td>老三</td>
+      <td>男</td>
+      <td>工程师</td>
   </tr>
   
 </table>
