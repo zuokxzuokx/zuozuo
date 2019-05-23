@@ -17,13 +17,23 @@ test
       <th>职业</th>
   </tr>
   <tr>
-      <td>数据</td>
-      <td>数据</td>
-      <td>数据</td>
+      <td1001</td>
+      <td>1002</td>
+      <td>1003</td>
+      <td>1003</td>
+    
   </tr>
   <tr>
-      <td>数据</td>
-      <td>数据</td>
-      <td>数据</td>
+      <td>女</td>
+      <td>男</td>
+      <td>男</td>
+      <td>男</td>
   </tr>
+    <tr>
+      <td>教师</td>
+      <td>警察</td>
+      <td>警察</td>
+      <td>教师</td>
+  </tr>
+  
 </table>
